@@ -38,7 +38,7 @@ public:
             i++;
         }
         
-        int min_brick=INT_MAX, sum, col=end[0].size()-1, row=end.size();
+        int min_brick=INT_MAX, sum, col=end_matrix[0].size()-1, row=end_matrix.size();
         for(int i=0; i<col; i++) { // calculating min_brick from end_matrix
             sum=0;
             for(int j=0; j<row; j++) {
