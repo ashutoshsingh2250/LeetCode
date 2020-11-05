@@ -8,6 +8,7 @@
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|4 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|4 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|36 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|88 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|136 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](./solutions/57.%20Insert%20Interval.cpp)|28 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./solutions/69.%20Sqrt(x).cpp)|20 ms|
