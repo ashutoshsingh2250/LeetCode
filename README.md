@@ -11,6 +11,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./solutions/125.%20Valid%20Palindrome.cpp)|4 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|44 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|0 ms|
+|258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|0 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|0 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|84 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|32 ms|
