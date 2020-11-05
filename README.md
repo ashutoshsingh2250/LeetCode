@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./solutions/1.%20Two%20Sum.cpp)|752 ms|
+|2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./solutions/2.%20Add%20Two%20Numbers.cpp)|52 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|156 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|36 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./solutions/74.%20Search%20a%202D%20Matrix.cpp)|8 ms|
