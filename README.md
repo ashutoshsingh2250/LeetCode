@@ -29,6 +29,7 @@
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|0 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|60 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|84 ms|
+|706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|140 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|32 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[C++](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.cpp)|204 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
