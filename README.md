@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./solutions/1.%20Two%20Sum.cpp)|752 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|36 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./solutions/74.%20Search%20a%202D%20Matrix.cpp)|8 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./solutions/75.%20Sort%20Colors.cpp)|0 ms|
