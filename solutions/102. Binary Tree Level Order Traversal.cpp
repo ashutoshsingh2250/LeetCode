@@ -27,7 +27,7 @@ class Solution {
             
             while(size--) { 
                 TreeNode* t=q.front();
-                if(t) v.push_back(t->val);
+                v.push_back(t->val);
                 q.pop();
                 if(t->left)    q.push(t->left);
                 if(t->right)    q.push(t->right);
