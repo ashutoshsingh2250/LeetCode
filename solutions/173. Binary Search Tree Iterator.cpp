@@ -10,33 +10,36 @@
  * };
  */
 class BSTIterator {
-    set<int> v;
-    set<int>::iterator i;
-    
-    void PrintInOrder(TreeNode* node) {
-        if(!node)   return;
-        PrintInOrder(node->left);
-        v.insert(node->val);
-        PrintInOrder(node->right);
-    }
+    stack<TreeNode*> s;
     
 public:
     BSTIterator(TreeNode* root) {
-        PrintInOrder(root);
-        i=v.begin();
+        while (root) {
+            s.push(root);
+            root = root->left;
+        }
     }
     
     /** @return the next smallest number */
     int next() {
-        return *i++;
+        TreeNode* node = s.top(); s.pop();
+        TreeNode* tmp = node->right;
+        while (tmp) {
+            s.push(tmp);
+            tmp = tmp->left;
+        }
+        return node->val;
     }
     
     /** @return whether we have a next smallest number */
     bool hasNext() {
-        return i!=v.end();
+        return !s.empty();
     }
 };
 ​
 /**
  * Your BSTIterator object will be instantiated and called as such:
  * BSTIterator* obj = new BSTIterator(root);
+ * int param_1 = obj->next();
+ * bool param_2 = obj->hasNext();
+ */
