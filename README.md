@@ -53,6 +53,7 @@
 |617|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./solutions/617.%20Merge%20Two%20Binary%20Trees.cpp)||
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|176 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|140 ms|
+|1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[C++](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)|0 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|32 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[C++](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.cpp)|204 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
